@@ -1,0 +1,12 @@
+div.js_api {
+    border: 1px solid;
+    padding: 10px;
+}
+
+.api-form-admin tr, .push-form-admin tr {
+    border: solid 1px;
+}
+
+.api-form-admin td, .push-form-admin td {
+    padding: 5px 20px 5px 20px;
+}
